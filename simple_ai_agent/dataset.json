@@ -1,0 +1,18 @@
+[
+  {
+    "question": "hi",
+    "answer": "Hello! How can I help you?"
+  },
+  {
+    "question": "what is ai",
+    "answer": "AI means Artificial Intelligence. It helps machines think like humans."
+  },
+  {
+    "question": "what is your name",
+    "answer": "I am a simple AI agent created by Tharu."
+  },
+  {
+    "question": "bye",
+    "answer": "Goodbye! Have a nice day."
+  }
+]
